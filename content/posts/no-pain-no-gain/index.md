@@ -4,7 +4,7 @@ date = "2023-04-03"
 draft = true
 pinned = false
 tags = ["Lifehacks"]
-description = "Das Leistungshobby - die Zukunft?"
+description = "Musische Leistungshobbys\n"
 +++
 ## Immer mehr Schülerinnen und Schüler des Konservatoriums Bern nehmen an einem Förderprogramm teil, investieren mehr Zeit in ihr Hobby, setzen sich vermehrt mit der Musik auseinander. Was kommt dabei zustande? Mit welchen Niederlagen haben die Jugendlichen zu kämpfen, was treibt sie weiter?
 
