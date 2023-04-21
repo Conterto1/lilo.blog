@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "HT"
-image = "/media/82c56aa9-3e89-45ee-8253-935f7bf1c893.jpeg"
+name = "Helena T."
+image = "/media/93ba1f13-4e86-4f38-90fb-454671f879b6.jpeg"
 url = ""
 +++
