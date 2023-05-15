@@ -1,7 +1,7 @@
 +++
 title = "NO PAIN, NO GAIN!"
 date = "2023-05-16"
-draft = true
+draft = false
 pinned = true
 tags = ["Deutsch", "Reportage", "Musik"]
 description = "Immer mehr Schülerinnen und Schüler des Konservatoriums Bern nehmen an einem \nFörderprogramm teil, investieren mehr Zeit in ihr Hobby, setzen sich vermehrt mit \nder Musik auseinander. Wie entwickelt sich ihr Weg? Was müssen die Jugendliche alles leisten, um an ihre Ziele zu gelangen?\n"
@@ -12,9 +12,9 @@ Es ist ein regnerischer Montagmorgen, kurz nach acht. Normalerweise sitzt der 16
 
 Er ist nicht der Einzige, der einen Teil seiner Freizeit mit Üben und der Teilnahme an Ensembles, also einer Gruppe von Musikern, und anderen solchen Aktivitäten verbringt. Die Stücke sind schwer und erfordern viel Übungszeit; täglich setzt man sich für mehrere Stunden hin und wiederholt schwierige Stellen, erlernt neue Techniken, feilt an der musikalischen Interpretation, bis sie nach mehreren Wochen bis gar Monaten endlich konzertreif sind und bei einer Musizierstunde, einem Talentförderungskonzert oder einem Wettbewerb vorgespielt werden können. Es braucht Ausdauer, so lange am selben Stück zu arbeiten, doch umso grösser ist die Lust, die Stücke in den Griff zu bekommen, um sie eines Tages einem Publikum präsentieren zu können. „Das Durchhalten ist nicht immer so einfach. Man kommt jedoch auch nicht weiter, wenn man nichts macht“, findet er. So ergeht es vielen Jugendlichen, die sich für ein Leistungshobby entschieden haben. Es kostet Zeit, Nerven und Geld, doch die Freude an der Musik und der Spass am Instrument motiviert sie und zeigt ihnen, was das Schöne an ihrem Hobby ist. Zudem können die Jugendlichen eine sogenannte Talentcard beantragen, mit der ihnen Stipendien und Dispensationen vom Schulunterricht ermöglicht werden.
 
-#### Talentcard
+#### *Talentcard*
 
-Jede/r, der sich für Musik interessiert und mehr Zeit dafür investieren möchte, jedoch findet, dass es unter den gegebenen Umständen nicht möglich ist, kann eine Talentcard auf bernertalent.ch beantragen. Dadurch kann ihm/ihr mehr Übungs- und Unterrichtszeit ermöglicht werden, man wird möglicherweise finanziell entlastet und auch bieten sich mehr Möglichkeiten, die Leidenschaft auszuüben.
+*Jede/r, der sich für Musik interessiert und mehr Zeit dafür investieren möchte, jedoch findet, dass es unter den gegebenen Umständen nicht möglich ist, kann eine Talentcard auf bernertalent.ch beantragen. Dadurch kann ihm/ihr mehr Übungs- und Unterrichtszeit ermöglicht werden, man wird möglicherweise finanziell entlastet und auch bieten sich mehr Möglichkeiten, die Leidenschaft auszuüben.*
 
 Nicht nur in der Musik braucht es viel Durchhaltevermögen - auch im Leistungssport und allen anderen Bereichen, in welchen ein grosser Erfolg erzielt werden soll, wird Beharrlichkeit und Kontinuität gebraucht. Dazu passt auch eine Aussage über Kobe Bryant, ein kürzlich verunfallte Basketballspieler der National Basketball League, kurz NBL, von seinem Trainer, Phil Jackson: „Er erreichte sein Ziel durch Einsatz und Beharrlichkeit“.
 
