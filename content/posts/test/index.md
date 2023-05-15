@@ -1,7 +1,7 @@
 +++
 title = "Test"
 date = "2023-05-16"
-draft = true
+draft = false
 pinned = false
 +++
 ```
