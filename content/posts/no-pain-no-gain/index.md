@@ -4,6 +4,7 @@ date = "2023-05-16"
 draft = false
 pinned = true
 tags = ["Deutsch", "Reportage", "Musik"]
+image = "99179a1d-385f-4c5a-b0f0-97b3e10d11d6.jpeg"
 description = "Immer mehr Schülerinnen und Schüler des Konservatoriums Bern nehmen an einem \nFörderprogramm teil, investieren mehr Zeit in ihr Hobby, setzen sich vermehrt mit \nder Musik auseinander. Wie entwickelt sich ihr Weg? Was müssen die Jugendliche alles leisten, um an ihre Ziele zu gelangen?\n"
 +++
 {{<lead>}}
