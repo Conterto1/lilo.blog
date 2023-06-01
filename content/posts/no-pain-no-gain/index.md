@@ -13,7 +13,7 @@ Immer mehr Schülerinnen und Schüler des Konservatoriums Bern nehmen an einem 
 
 {{</lead>}}
 
-*Von: Lia Hess, Clara Lauber und Helena Trautmann (M25a)*
+*Autorinnen: Lia Hess, Clara Lauber und Helena Trautmann (M25a)*
 
 ![Bereits um acht Uhr morgens hat das Konsi geöffnet, ideal, um schon vor der Schule auf die Pauke zu hauen. Foto: Helena Trautmann](ccb74ec6-e4af-47ce-8b95-cfb4b5edd14c.jpeg)
 
